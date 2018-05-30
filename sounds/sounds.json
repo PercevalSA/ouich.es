@@ -1,0 +1,712 @@
+[
+    {
+        "character": "amalgame",
+        "file": "amalgame.mp3",
+        "title": "Tu fais un amalgame entre la coquetterie et la classe."
+    },
+    {
+        "character": "injures",
+        "file": "injures.mp3",
+        "title": "Tu n'es vraiment pas très sympa. Mais le train de tes injures roule sur le rail de mon indifférence."
+    },
+    {
+        "character": "facteur",
+        "file": "facteur.mp3",
+        "title": "Presse le pas, facteur, car l’amitié n’attend pas !"
+    },
+    {
+        "character": "bordel",
+        "file": "bordel.mp3",
+        "title": "Ça m'a l'air d'un bordel..."
+    },
+    {
+        "character": "philosophes",
+        "file": "philosophes.mp3",
+        "title": "Excusez-moi maestro, je saluais des amis philosophes."
+    },
+    {
+        "character": "balles",
+        "file": "balles.mp3",
+        "title": "La prochaine fois, je m’occuperai de toi avec de vraies balles."
+    },
+    {
+        "character": "fromage",
+        "file": "fromage.mp3",
+        "title": "Bon, on va pas en faire un fromage. Je m’en suis sorti sans problème."
+    },
+    {
+        "character": "discuter",
+        "file": "discuter.mp3",
+        "title": "Toute façon ça sert à rien de discuter avec toi, t'as toujours raison."
+    },
+    {
+        "character": "savoirvivre",
+        "file": "savoirvivre.mp3",
+        "title": "Merci m'sieur, c'est très gentil."
+    },
+    {
+        "character": "menageres",
+        "file": "menageres.mp3",
+        "title": "Sauf que moi j'les baise moi les ménagères."
+    },
+    {
+        "character": "botter",
+        "file": "botter.mp3",
+        "title": "Moi c'que j'vois, c'est qu'dans deux secondes, j'vais t'botter le cul."
+    },
+    {
+        "character": "trouble",
+        "file": "trouble.mp3",
+        "title": "En tout cas s’il cherchait pour du trouble, il est venu à la bonne place."
+    },
+    {
+        "character": "string",
+        "file": "string.mp3",
+        "title": "En string, vous d'vez être bonne."
+    },
+    {
+        "character": "assassine",
+        "file": "assassine.mp3",
+        "title": "On l'a retrouvé assassiné un jour. Il en est mort."
+    },
+    {
+        "character": "ouf",
+        "file": "ouf.mp3",
+        "title": "Je pense que t'es un ouf toi. Un ouf malade."
+    },
+    {
+        "character": "dring",
+        "file": "dring.mp3",
+        "title": "Tu connais l'effet spéciaux de la sonnette ? Dring. Tiens dring. Dring dring, tiens. Et dring dring."
+    },
+    {
+        "character": "pesant",
+        "file": "pesant.mp3",
+        "title": "Ça commence à être pesant cette histoire de pédé. Tout l'monde s'acharne sur nous, alors qu'on n'est même pas pédés."
+    },
+    {
+        "character": "ouiche",
+        "file": "ouiche.mp3",
+        "title": "On dit une ouiche lorraine."
+    },
+    {
+        "character": "sexe",
+        "file": "sexe.mp3",
+        "title": "Sexe + histoire de cul = meurtre."
+    },
+    {
+        "character": "fax",
+        "file": "fax.mp3",
+        "title": "Si tu veux m'parler, envoie-moi un... fax."
+    },
+    {
+        "character": "fesses",
+        "file": "fesses.mp3",
+        "title": "Mon mari est absent. Vous voulez voir mes fesses ? Et ensuite j'vous roulerai une pelle."
+    },
+    {
+        "character": "megachiasse",
+        "file": "megachiasse.mp3",
+        "title": "Bon, m'emmerde pas avec tes histoires, j'te dis qu'j'ai mal au bide. J'ai la méga chiasse, putain la méga chiasse."
+    },
+    {
+        "character": "pop",
+        "file": "pop.mp3",
+        "title": "Classe, man ! Top of the pop."
+    },
+    {
+        "character": "reve",
+        "file": "reve.mp3",
+        "title": "Eh, non mais pour qui tu me prends, je rêve !"
+    },
+    {
+        "character": "pins",
+        "file": "pins.mp3",
+        "title": "C'que j'arrête c'est les Pin's vieux. Ça m'fait plus marrer."
+    },
+    {
+        "character": "touffe",
+        "file": "touffe.mp3",
+        "title": "Il était trop balourd, trop pataud. Il voulait pas m'lâcher la touffe."
+    },
+    {
+        "character": "blaireau",
+        "file": "blaireau.mp3",
+        "title": "Mon plus grand plaisir serait que tu te calmes, gros blaireau."
+    },
+    {
+        "character": "cyclimse",
+        "file": "cyclimse.mp3",
+        "title": "Attention, ce flim n'est pas un flim sur le cyclimse. Merci de votre compréhension."
+    },
+    {
+        "character": "aider",
+        "file": "aider.mp3",
+        "title": "Très bien. Puisque vous ne voulez pas m'aider, allez vous faire enculer !"
+    },
+    {
+        "character": "grave",
+        "file": "grave.mp3",
+        "title": "Alors que moi, pendant c'temps-là, j'me la suis donné grave."
+    },
+    {
+        "character": "julienlepers",
+        "file": "julienlepers.mp3",
+        "title": "Mon émission passe tous les soirs à 18 h 35, je pose des questions à des champions, je suis ? Je suis ?"
+    },
+    {
+        "character": "chemin",
+        "file": "chemin.mp3",
+        "title": "Ça fait plusieurs fois que j'te croise. T'es toujours sur mon chemin. Tu veux quoi ?"
+    },
+    {
+        "character": "conneries",
+        "file": "conneries.mp3",
+        "title": "Ça veut dire quoi ces conneries ?"
+    },
+    {
+        "character": "tronche",
+        "file": "tronche.mp3",
+        "title": "Mais qu'est-ce qui t'arrive ? Pourquoi tu dis rien ? Tu fais la tronche ou quoi ?"
+    },
+    {
+        "character": "sourd",
+        "file": "sourd.mp3",
+        "title": "Je préfère partir plutôt que d’entendre ça plutôt que d’être sourd."
+    },
+    {
+        "character": "brille",
+        "file": "brille.mp3",
+        "title": "Tu dois avoir le cul qui brille."
+    },
+    {
+        "character": "choucroute",
+        "file": "choucroute.mp3",
+        "title": "Eh, la choucroute ! Si tu veux une saucisse…"
+    },
+    {
+        "character": "tomate",
+        "file": "tomate.mp3",
+        "title": "Regarde, c'est lui, il est là."
+    },
+    {
+        "character": "courageux",
+        "file": "courageux.mp3",
+        "title": "Pas très très courageux."
+    },
+    {
+        "character": "journalisme",
+        "file": "journalisme.mp3",
+        "title": "C'est du journalisme total."
+    },
+    {
+        "character": "idee",
+        "file": "idee.mp3",
+        "title": "Oui, on en a chié pour trouver cette idée, on a été charrette."
+    },
+    {
+        "character": "cheveux",
+        "file": "cheveux.mp3",
+        "title": "Parce que j'ai les cheveux longs tu flippes pour ton confort bourgeois. T'as un mauvais karma frêre, si tu supportes pas mes cheveux. Désolé papy, mais j'ai ma liberté d'expression capilaire."
+    },
+    {
+        "character": "indiscret",
+        "file": "indiscret.mp3",
+        "title": "T'es pas indiscret. Je suis majeur et je fais c'que j'ai envie de faire avec mon p'tit corps."
+    },
+    {
+        "character": "elvis",
+        "file": "elvis.mp3",
+        "title": "Un pour l'argent. Deux pour le spectacle. Et trois pour le caillou."
+    },
+    {
+        "character": "espagnol",
+        "file": "espagnol.mp3",
+        "title": "Buenas noches."
+    },
+    {
+        "character": "amour",
+        "file": "amour.mp3",
+        "title": "Je faisais l'amour avec lui depuis le samedi après-midi jusqu'au vendredi soir. À ce moment là c'était un bon compagnon."
+    },
+    {
+        "character": "aime",
+        "file": "aime.mp3",
+        "title": "Je voulais vous dire, je vous aime."
+    },
+    {
+        "character": "con",
+        "file": "con.mp3",
+        "title": "Rassurez-moi. Vous seriez pas un peu en train d'me prendre pour un con des fois ?"
+    },
+    {
+        "character": "hommes",
+        "file": "hommes.mp3",
+        "title": "J'ai connu des hommes, mais jamais des comme vous."
+    },
+    {
+        "character": "gene",
+        "file": "gene.mp3",
+        "title": "Vous arrivez vous êtes même pas chez vous. Vous vous pointez avec trois quarts d'heure d'retard. Pas bonjour, pas merci. Vous filez tout droit au frigo. Vous prenez la dernière bière. Ah ! Vous vous êtes un sacré sans-gêne."
+    },
+    {
+        "character": "pasteques",
+        "file": "pasteques.mp3",
+        "title": "Ah je te jure. J’ai les pastèques."
+    },
+    {
+        "character": "cul",
+        "file": "cul.mp3",
+        "title": "Et ça chauffera pour ton cul."
+    },
+    {
+        "character": "gentil",
+        "file": "gentil.mp3",
+        "title": "Vous êtes très gentil. Attention, j’ai bien dit gentil, j’ai pas dit homosexuel, hein."
+    },
+    {
+        "character": "tendre",
+        "file": "tendre.mp3",
+        "title": "Aime-moi tendre, aime-moi vrai."
+    },
+    {
+        "character": "pietons",
+        "file": "pietons.mp3",
+        "title": "Quels connards ces piétons !"
+    },
+    {
+        "character": "playboy",
+        "file": "playboy.mp3",
+        "title": "Style le grand play-boy des fonds marins."
+    },
+    {
+        "character": "mode",
+        "file": "mode.mp3",
+        "title": "Tu dépenses tout ton argent dans les habits et accessoires de mode mais tu es ridicule."
+    },
+    {
+        "character": "bizarres",
+        "file": "bizarres.mp3",
+        "title": "Moi, j'aime pas les gens bizarres."
+    },
+    {
+        "character": "tolerance",
+        "file": "tolerance.mp3",
+        "title": "Il paraît que t'as des propos intolérables. Où y'a pas d'tolérance ? Tu sais donc pas qu'c'est pas bien d'être raciste ? Que c'est mal ? On n'doit pas faire de discrimation raciale. C'est mal. Juger les gens sur leur religion c'est mal. Sur la couleur de leur peau, sur leurs origines sociales ou sur leur nationalité, c'est mal."
+    },
+    {
+        "character": "joue",
+        "file": "joue.mp3",
+        "title": "Bien joué les gars."
+    },
+    {
+        "character": "buse",
+        "file": "buse.mp3",
+        "title": "Vous me prenez pour une buse ?"
+    },
+    {
+        "character": "costume",
+        "file": "costume.mp3",
+        "title": "Actuellement j'ai un léger problème de costume, je crois que mon tailleur se fout de ma gueule."
+    },
+    {
+        "character": "croire",
+        "file": "croire.mp3",
+        "title": "Comment peux-tu croire des conneries pareilles ?"
+    },
+    {
+        "character": "plaisantais",
+        "file": "plaisantais.mp3",
+        "title": "Ah ça va, je plaisantais, détends-toi."
+    },
+    {
+        "character": "savoir",
+        "file": "savoir.mp3",
+        "title": "Et on peut savoir, euh, ça veut dire quoi ça ?"
+    },
+    {
+        "character": "premier",
+        "file": "premier.mp3",
+        "title": "Mais j'te reconnais, toi ! J't'ai déjà vu quelque part. Je suis sûr que j'te reconnais !"
+    },
+    {
+        "character": "content",
+        "file": "content.mp3",
+        "title": "Tu peux rester. Pas de problème. J'suis même content qu'tu sois venu chez nous. J'aimerais bien qu'tu restes."
+    },
+    {
+        "character": "hasbeen",
+        "file": "hasbeen.mp3",
+        "title": "Si tu veux mon opinion, ça fait un peu… has been."
+    },
+    {
+        "character": "voleurs",
+        "file": "voleurs.mp3",
+        "title": "J'aime pas trop les voleurs et... les fils de pute."
+    },
+    {
+        "character": "seins",
+        "file": "seins.mp3",
+        "title": "J’aime vos seins. Vos loches."
+    },
+    {
+        "character": "effetsspeciaux",
+        "file": "effetsspeciaux.mp3",
+        "title": "Moi ce qui me fait chier c’est les effets spéciaux minables. Je supporte plus."
+    },
+    {
+        "character": "chips",
+        "file": "chips.mp3",
+        "title": "On va manger... des chips. T'entends ? Des chips. C'est tout c'que ça t'fait quand j'te dis qu'on va manger des chips ?"
+    },
+    {
+        "character": "ferme",
+        "file": "ferme.mp3",
+        "title": "La ferme ? Quelle ferme ?"
+    },
+    {
+        "character": "excuses",
+        "file": "excuses.mp3",
+        "title": "Il va sans doute nous présenter ses excuses."
+    },
+    {
+        "character": "jeune",
+        "file": "jeune.mp3",
+        "title": "À mon avis, tu me prends pour un con. Tu m’as l’air bien jeune pour avoir connu cette époque."
+    },
+    {
+        "character": "cafe",
+        "file": "cafe.mp3",
+        "title": "Est-ce que vous voulez être ma femme ? Et après on boira un café."
+    },
+    {
+        "character": "sucer",
+        "file": "sucer.mp3",
+        "title": "Oui je pourrais, mais d’abord faut sucer."
+    },
+    {
+        "character": "ranch",
+        "file": "ranch.mp3",
+        "title": "Et c'est façile de traiter les gens de pédés. Tout ça parce que deux garçons vivent ensemble dans un ranch et portent des pantalons en cuir."
+    },
+    {
+        "character": "puissance",
+        "file": "puissance.mp3",
+        "title": "En puissance intellectuelle, on va voir c'que tu vaux."
+    },
+    {
+        "character": "decision",
+        "file": "decision.mp3",
+        "title": "Écoutez."
+    },
+    {
+        "character": "droite",
+        "file": "droite.mp3",
+        "title": "Hé ben. J'ai connu un mec de droite, une fois. Il avait dix fois plus de classe."
+    },
+    {
+        "character": "meconnaissable",
+        "file": "meconnaissable.mp3",
+        "title": "Je suis pas gentil, c’est pas vrai. Quand je m’énerve, je me mets dans des états dingues. Je suis méconnaissable."
+    },
+    {
+        "character": "pipeau",
+        "file": "pipeau.mp3",
+        "title": "Ça sent le pipeau ton histoire. Le pipeau !"
+    },
+    {
+        "character": "tranquille",
+        "file": "tranquille.mp3",
+        "title": "Alors, on peut plus chier tranquille ?"
+    },
+    {
+        "character": "acte",
+        "file": "acte.mp3",
+        "title": "vous m’aviez proposé de… comment dire… de faire le… j’aimerais bien passer à l’acte sexuel."
+    },
+    {
+        "character": "battre",
+        "file": "battre.mp3",
+        "title": "C'est tout c'que t'as à dire ? Fais quelque chose."
+    },
+    {
+        "character": "tete",
+        "file": "tete.mp3",
+        "title": "Bon ben lui il va m'prendre la tête."
+    },
+    {
+        "character": "classe",
+        "file": "classe.mp3",
+        "title": "C'est la classe."
+    },
+    {
+        "character": "clim",
+        "file": "clim.mp3",
+        "title": "Pas de clim’ quand il fait chaud, pas de téléphone, pas de télé, pas de chauffage…"
+    },
+    {
+        "character": "fuser",
+        "file": "fuser.mp3",
+        "title": "Ça va fuser, les potins, les ragots."
+    },
+    {
+        "character": "renseignement",
+        "file": "renseignement.mp3",
+        "title": "Ah bravo, merci du renseignement. Heureusement que tu es là."
+    },
+    {
+        "character": "nom",
+        "file": "nom.mp3",
+        "title": "C'est sûrement un nom. Si c'est une femme, j'veux savoir quelle femme. Si c'est un cheval, je veux savoir dans quelle course."
+    },
+    {
+        "character": "breakdown",
+        "file": "breakdown.mp3",
+        "title": "J'suis limite nervous breakdown."
+    },
+    {
+        "character": "regimes",
+        "file": "regimes.mp3",
+        "title": "Alors toi, mec, avec tes régimes à la con, tu me fais bien marrer."
+    },
+    {
+        "character": "cons",
+        "file": "cons.mp3",
+        "title": "Je suis l'homme le plus classe du monde. Bande de cons."
+    },
+    {
+        "character": "duel",
+        "file": "duel.mp3",
+        "title": "Ok, puisque j'vois qu'on peut pas discuter, on va faire un duel."
+    },
+    {
+        "character": "partouzeurs",
+        "file": "partouzeurs.mp3",
+        "title": "Paraît qu'on a repéré des animaux préhistoriques partouzeurs de droite dans les parages."
+    },
+    {
+        "character": "francais",
+        "file": "francais.mp3",
+        "title": "Pas mal, non ? C’est français."
+    },
+    {
+        "character": "celebre",
+        "file": "celebre.mp3",
+        "title": "Moi, j'veux être connu, tu sais pouquoi ? Pour niquer les gonzesses. Quand t'es célèbre tu niques plein de gonzesses."
+    },
+    {
+        "character": "muscle",
+        "file": "muscle.mp3",
+        "title": "Tu trouves pas que je me suis musclé ces derniers temps ?"
+    },
+    {
+        "character": "bonbons",
+        "file": "bonbons.mp3",
+        "title": "Bababa baba baba. J'ai les bonbons qui collent au papier."
+    },
+    {
+        "character": "meufs",
+        "file": "meufs.mp3",
+        "title": "Quand je serai célèbre, je me ferai des meufs ! Mmh je ferai des folies !"
+    },
+    {
+        "character": "nichons",
+        "file": "nichons.mp3",
+        "title": "Elle s’est fait refaire les nichons, elle. Et je sais de quoi je parle."
+    },
+    {
+        "character": "reveil",
+        "file": "reveil.mp3",
+        "title": "Sur mon front y'a pas marqué radio-réveil."
+    },
+    {
+        "character": "bac",
+        "file": "bac.mp3",
+        "title": "Au revoir messieurs dames. C'est ça la puissance intellectuelle. Bac+2, les enfants."
+    },
+    {
+        "character": "demerder",
+        "file": "demerder.mp3",
+        "title": "Putain, j'me suis mal démerdé. Pourtant, j'ai pas fait une concession."
+    },
+    {
+        "character": "cinq",
+        "file": "cinq.mp3",
+        "title": "Alors une, je ne m’en souviens pas, deux je ne suis pas resté longtemps, et enfin cinq… il y a pas de cinq."
+    },
+    {
+        "character": "minable",
+        "file": "minable.mp3",
+        "title": "T’es un minable ! Et tu te crois le meilleur journaliste du monde ? Mais c’est incroyable, ça."
+    },
+    {
+        "character": "fringues",
+        "file": "fringues.mp3",
+        "title": "J’en ai pour plus d’une barre de fringues sur moi."
+    },
+    {
+        "character": "just",
+        "file": "just.mp3",
+        "title": "Moi je préfèrerais avoir sa classe plutôt qu’avoir la mienne. Moi je suis un peu just."
+    },
+    {
+        "character": "burgers",
+        "file": "burgers.mp3",
+        "title": " Ça doit être les burgers."
+    },
+    {
+        "character": "anglais",
+        "file": "anglais.mp3",
+        "title": "Tiens regarde les anglais ont débarqué. On va être obligés de passer par derrière. Tu sais par ce tunnel tout sombre qui sent pas très bon."
+    },
+    {
+        "character": "chili",
+        "file": "chili.mp3",
+        "title": "Est-ce que tu aimerais te bâfrer un chili con carne ?"
+    },
+    {
+        "character": "helicoptere",
+        "file": "helicoptere.mp3",
+        "title": "Écoute, j’ai un truc à te proposer, vachement bien, super balaise. On serait tous les deux complètement irresponsables, payés par la CIA avec un hélicoptère."
+    },
+    {
+        "character": "foutre",
+        "file": "foutre.mp3",
+        "title": "Vous dites que j'aille me faire foutre ? OK j'y vais."
+    },
+    {
+        "character": "poudre",
+        "file": "poudre.mp3",
+        "title": "OK. Tu veux pas me parler, hum ? Tu veux qu'j'fasse parler la poudre."
+    },
+    {
+        "character": "plusdutout",
+        "file": "plusdutout.mp3",
+        "title": "Ça va plus du tout. J’ai plus envie de boire ni de manger."
+    },
+    {
+        "character": "niquer",
+        "file": "niquer.mp3",
+        "title": "Vous voulez niquer avec mon ami et moi ?"
+    },
+    {
+        "character": "comprendre",
+        "file": "comprendre.mp3",
+        "title": "C'est ça. C'est à n'y rien comprendre, même en y réfléchissant bien."
+    },
+    {
+        "character": "convaincu",
+        "file": "convaincu.mp3",
+        "title": "Ah ben là patron vous m’avez convaincu, c’est une bonne raison."
+    },
+    {
+        "character": "apresmidi",
+        "file": "apresmidi.mp3",
+        "title": "On veut savoir si on peut prendre notre après-midi ? C'est à dire qu'on a un plan là."
+    },
+    {
+        "character": "tchernobyl",
+        "file": "tchernobyl.mp3",
+        "title": "C’est le cowboy de Tchernobyl."
+    },
+    {
+        "character": "qualite",
+        "file": "qualite.mp3",
+        "title": "J'te dis ça en qualité d'homme le plus classe du monde."
+    },
+    {
+        "character": "sape",
+        "file": "sape.mp3",
+        "title": "Ah, voilà enfin le roi de la classe ! L’homme trop bien sapé."
+    },
+    {
+        "character": "divorce",
+        "file": "divorce.mp3",
+        "title": "En y réflechissant bien, je pense que notre histoire n'a pas une chance sur cent de marcher. On divorce ?"
+    },
+    {
+        "character": "mondedemerde",
+        "file": "mondedemerde.mp3",
+        "title": "Monde de merde."
+    },
+    {
+        "character": "chier",
+        "file": "chier.mp3",
+        "title": "Bon ça va, on vous fait pas chier là ? Non c'est sûr ? Je rêve."
+    },
+    {
+        "character": "mystere",
+        "file": "mystere.mp3",
+        "title": "Je sais pas toi, mais moi le mystère s’épaissit."
+    },
+    {
+        "character": "surpuissant",
+        "file": "surpuissant.mp3",
+        "title": "Mais j'suis pas super fort, j'suis mieux qu'ça même. J'suis surpuissant."
+    },
+    {
+        "character": "democrate",
+        "file": "democrate.mp3",
+        "title": "Parce que si on réfléchit bien, moi je suis un vrai démocrate."
+    },
+    {
+        "character": "manchot",
+        "file": "manchot.mp3",
+        "title": "J’ai peut-être qu’un bras, mais… je suis pas manchot !"
+    },
+    {
+        "character": "pipoter",
+        "file": "pipoter.mp3",
+        "title": "Tu pipotes pas un peu toi ?"
+    },
+    {
+        "character": "cravate",
+        "file": "cravate.mp3",
+        "title": "C’est pas mal, ça, le pin’s sur la cravate."
+    },
+    {
+        "character": "amis",
+        "file": "amis.mp3",
+        "title": "Considère qu’on n’est plus amis !"
+    },
+    {
+        "character": "tomber",
+        "file": "tomber.mp3",
+        "title": "Laisse tomber, tu te fous de ma gueule ?"
+    },
+    {
+        "character": "bienvenue",
+        "file": "bienvenue.mp3",
+        "title": "Messieurs, permettez-moi de vous souhaiter la bienvenue. D'ailleurs, il faut pas rester debout, asseyez-vous, mettez-vous à l’aise."
+    },
+    {
+        "character": "lave",
+        "file": "lave.mp3",
+        "title": "Boah et puis merde, j’ai même plus envie de me laver !"
+    },
+    {
+        "character": "poete",
+        "file": "poete.mp3",
+        "title": "Quel poète, vous me surprenez. On ne m’a jamais parlé comme ça."
+    },
+    {
+        "character": "capotes",
+        "file": "capotes.mp3",
+        "title": "Mettez des capotes."
+    },
+    {
+        "character": "rougir",
+        "file": "rougir.mp3",
+        "title": "Nan, arrêtez, vous me gênez, je vais rougir."
+    },
+    {
+        "character": "prive",
+        "file": "prive.mp3",
+        "title": "Mais c'est privé et j'ai des principes."
+    },
+    {
+        "character": "recommencer",
+        "file": "recommencer.mp3",
+        "title": "T'es lourde là."
+    }
+]
